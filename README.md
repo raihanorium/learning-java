@@ -23,13 +23,13 @@
     - Caching
     - Flyway
 - Database    
-    ORM
-    ACID
-    Transactions
-    N+1 Problem
-    Replication
-    Sharding
-    CAP Theorem
+    - ORM
+    - ACID
+    - Transactions
+    - N+1 Problem
+    - Replication
+    - Sharding
+    - CAP Theorem
 - Networking  
     - Layers
     - HTTP
