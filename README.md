@@ -2,7 +2,7 @@
 ## Covering the following topics
 
 - Core Java 
-    - JVM
+    - [JVM](/core-java/jvm.md)
     - Collections
     - Generics
     - Concurrency
