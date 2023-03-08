@@ -6,9 +6,11 @@
     - Collections
     - Generics
     - Concurrency
-    - Lambda
+    - IO
+    - Stream API
     - Regular Expressions
     - Exception Handling
+    - Servlet API
     - JPA
     - OOP
     - SOLID Principle
@@ -21,7 +23,12 @@
     - OAuth
     - Batch
     - Caching
+    - Hibernate
     - Flyway
+- Microservice
+    - DDD
+    - CQRS
+    - SAGA
 - Database    
     - ORM
     - ACID
@@ -39,7 +46,13 @@
 - Unit Testing    
 - Version Control 
 - SAML    
-- Messaging   
+- Messaging
 - Logging 
 - Elasticsearch   
-- Agile   
+- Agile
+- Application Server
+    - Tomcat
+    - Nginx
+- Docker
+- Kubernetes
+- AWS
