@@ -36,6 +36,7 @@
     - DDD
     - CQRS
     - SAGA
+    - Transaction
 - Database    
     - ORM
     - ACID
