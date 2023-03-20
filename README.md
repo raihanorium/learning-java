@@ -41,10 +41,13 @@
     - ORM
     - ACID
     - Transactions
+    - Database concurrency
     - N+1 Problem
     - Replication
     - Sharding
     - CAP Theorem
+    - Isolation levels
+- System Design
 - Networking  
     - Layers
     - HTTP
