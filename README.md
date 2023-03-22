@@ -7,6 +7,9 @@
     - Generics
     - Concurrency
         1. The two ways of implementing thread in java are extending the `Thread` class and implementing the `Runnable` interface.
+        1. A race condition is a condition in which two or more threads compete together to get certain shared resources. There are two types of race conditions:
+            - Read-modify-write
+            - Check-then-act
         1. A deadlock in Java is a situation where two or more threads are blocked and waiting for each other to release a resource, resulting in a standstill where none of the threads can continue execution.
         1. Volatile variables are read directly from memory rather`volatile` keyword cannot be used with classes and methods, can be used only with variables.
         1. A thread cannot be restarted. If we try to start a thread again, it throws `IllegalThreadStateException`.
