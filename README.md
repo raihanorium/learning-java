@@ -20,7 +20,7 @@
     - Servlet API
     - JPA
     - OOP
-    - SOLID Principle
+    - [SOLID Principles](/core-java/solid.md)
     - Design Patterns
 - Spring    
     - IOC and DI
