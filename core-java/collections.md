@@ -1,4 +1,6 @@
-# Quick Notes
+# Collections
+
+## Quick Notes
 
 1. `ArrayList` is better to store and fetch data. `LinkedList` is better to manipulate data.
 
@@ -12,13 +14,13 @@
 
 1. We can obtain java ArrayList Read-only by calling the `Collections.unmodifiableCollection()` method. When we define an ArrayList as Read-only then we cannot perform any modification in the collection through  add(), remove() or set() method.
 
-# Thread Safety
+## Thread Safety
 
 1. `ArrayList` is not thread-safe as it is not synchronized. `Vector` list is thread-safe as its every method is synchronized.
 
 1. `HashMap` is not synchronized, hence not thread-safe but fast. `Hashtable` is synchronized, that means thread-safe but slow.
 
-# Sorting
+## Sorting
 
 1. The `List` interface maintains the order of elements in which they are added to the list. The position of each element in the list is determined by its index.
 

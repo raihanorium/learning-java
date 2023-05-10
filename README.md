@@ -85,3 +85,4 @@
 - Docker
 - Kubernetes
 - AWS
+- [RESTful Services](/rest.md)
