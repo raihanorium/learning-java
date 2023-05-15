@@ -1,0 +1,1 @@
+![ACID](/images/ACID-Properties.jpeg)
