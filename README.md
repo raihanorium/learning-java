@@ -15,6 +15,8 @@
     - [OOP](/core-java/oop.md)
     - [SOLID Principles](/core-java/solid.md)
     - Design Patterns
+- Build Tools
+    - Gradle
 - Spring    
     - IOC and DI
     - Spring Boot
